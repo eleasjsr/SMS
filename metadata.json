@@ -1,0 +1,6 @@
+{
+  "name": "Upazila Computer Training Institute - Student Management System",
+  "description": "Professional, database-driven Training Institute Student Management System featuring admissions, class management, fee collection, attendance, grading, accounts, ID card generator, and database backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
